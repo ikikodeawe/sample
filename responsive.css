@@ -1,0 +1,116 @@
+@media all and (max-width: 1000px) {
+	.konten-tata-cara {
+		width: 100%;
+		margin-bottom: 50px;
+	}
+
+	.gambar-tata-cara {
+		display: none;
+	}
+
+	.individu-paslon {
+		width: 100%;
+		margin-bottom: 50px;
+	}
+
+	.subindividu-paslon {
+		width: 100%;
+		margin-bottom: 50px;
+	}
+
+	.pembuka h1 {
+		font-size: 32px;
+	}
+
+	.heading h1 {
+		font-size: 20px;
+	}
+
+	.container h1 {
+		font-size: 20px;
+	}
+	
+	.footer h3 {
+		font-size: 16px;
+		text-align: center;
+	}
+
+	.gambar-vote {
+		width: 100%;
+	}
+
+	.gambar-pembuka {
+		width: 100%;
+	}
+
+	.konten-tata-cara li {
+		padding-top: 5px;
+		padding-bottom: 5px;
+		font-size: 18px;
+		width: 100%;
+	}
+}
+
+@media all and (max-width: 670px) {
+	.konten-tata-cara {
+		width: 100%;
+	}
+
+	.gambar-tata-cara {
+		display: none;
+	}
+
+	.individu-paslon {
+		width: 100%;
+		margin-bottom: 50px;
+	}
+
+	.subindividu-paslon {
+		width: 100%;
+		margin-bottom: 50px;
+	}
+
+	.pembuka h1 {
+		font-size: 32px;
+	}
+
+	.heading h1 {
+		font-size: 20px;
+	}
+
+	.gambar-vote {
+		width: 100%;
+	}
+
+	.gambar-pembuka {
+		width: 100%;
+	}
+
+	.konten-tata-cara li {
+		padding-top: 5px;
+		padding-bottom: 5px;
+		font-size: 18px;
+		width: 100%;
+	}
+
+	.container h1 {
+		font-size: 20px;
+	}
+	
+	.footer h3 {
+		font-size: 16px;
+		text-align: center;
+	}
+
+	.tombol {
+		width: 100%;
+	}
+
+	.header-link {
+		display: none;
+	}
+
+	.logo-menu {
+		display: block;
+	}
+}
